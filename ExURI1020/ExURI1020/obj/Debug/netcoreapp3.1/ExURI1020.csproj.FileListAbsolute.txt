@@ -1,0 +1,12 @@
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\ExURI1020\ExURI1020\bin\Debug\netcoreapp3.1\ExURI1020.exe
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\ExURI1020\ExURI1020\bin\Debug\netcoreapp3.1\ExURI1020.deps.json
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\ExURI1020\ExURI1020\bin\Debug\netcoreapp3.1\ExURI1020.runtimeconfig.json
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\ExURI1020\ExURI1020\bin\Debug\netcoreapp3.1\ExURI1020.runtimeconfig.dev.json
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\ExURI1020\ExURI1020\bin\Debug\netcoreapp3.1\ExURI1020.dll
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\ExURI1020\ExURI1020\bin\Debug\netcoreapp3.1\ExURI1020.pdb
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\ExURI1020\ExURI1020\obj\Debug\netcoreapp3.1\ExURI1020.AssemblyInfoInputs.cache
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\ExURI1020\ExURI1020\obj\Debug\netcoreapp3.1\ExURI1020.AssemblyInfo.cs
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\ExURI1020\ExURI1020\obj\Debug\netcoreapp3.1\ExURI1020.csproj.CoreCompileInputs.cache
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\ExURI1020\ExURI1020\obj\Debug\netcoreapp3.1\ExURI1020.dll
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\ExURI1020\ExURI1020\obj\Debug\netcoreapp3.1\ExURI1020.pdb
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\ExURI1020\ExURI1020\obj\Debug\netcoreapp3.1\ExURI1020.genruntimeconfig.cache

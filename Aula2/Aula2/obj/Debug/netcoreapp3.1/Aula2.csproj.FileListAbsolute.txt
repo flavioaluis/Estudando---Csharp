@@ -1,0 +1,13 @@
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\Aula2\Aula2\obj\Debug\netcoreapp3.1\Aula2.csprojAssemblyReference.cache
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\Aula2\Aula2\obj\Debug\netcoreapp3.1\Aula2.AssemblyInfoInputs.cache
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\Aula2\Aula2\obj\Debug\netcoreapp3.1\Aula2.AssemblyInfo.cs
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\Aula2\Aula2\obj\Debug\netcoreapp3.1\Aula2.csproj.CoreCompileInputs.cache
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\Aula2\Aula2\bin\Debug\netcoreapp3.1\Aula2.exe
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\Aula2\Aula2\bin\Debug\netcoreapp3.1\Aula2.deps.json
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\Aula2\Aula2\bin\Debug\netcoreapp3.1\Aula2.runtimeconfig.json
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\Aula2\Aula2\bin\Debug\netcoreapp3.1\Aula2.runtimeconfig.dev.json
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\Aula2\Aula2\bin\Debug\netcoreapp3.1\Aula2.dll
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\Aula2\Aula2\bin\Debug\netcoreapp3.1\Aula2.pdb
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\Aula2\Aula2\obj\Debug\netcoreapp3.1\Aula2.dll
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\Aula2\Aula2\obj\Debug\netcoreapp3.1\Aula2.pdb
+C:\Users\Juarez\Documents\Estudo C#\ws-vs2021\Primeiro\Aula2\Aula2\obj\Debug\netcoreapp3.1\Aula2.genruntimeconfig.cache
